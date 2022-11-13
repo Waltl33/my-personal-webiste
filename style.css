@@ -7,3 +7,15 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: mistyrose;
 }
+h2 { 
+    text-align: center;
+    color: black;
+    font-size: 300%;
+}
+img {
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
